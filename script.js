@@ -1,0 +1,1 @@
+let base = parseInt (prompt ("ingrese la base del triangulo"))
